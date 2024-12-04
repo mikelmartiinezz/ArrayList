@@ -23,6 +23,7 @@ public class GestionNavesEspaciales {
 			System.out.println("5. Mostrar todas las naves espaciales registradas");
 			System.out.println("6. Eliminar una nave espacial");
 			System.out.println("7. Salir");
+			System.out.println("Este cambio se tiene que ver en GITHUB");
 			System.out.print("Elige una opción: ");
 			opcion = scanner.nextInt();
 			scanner.nextLine(); // Limpiar el buffer del scanner
